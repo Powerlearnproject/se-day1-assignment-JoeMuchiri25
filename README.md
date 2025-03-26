@@ -201,17 +201,16 @@ Unit testing is when developers test individual parts or small units of the soft
 It works by a developer checking a small piece of code in isolation to see if it behaves as expected. For example, testing a simple calculator function to ensure it adds numbers correctly.
 Unit testing helps find and fix bugs early in the development process, making sure each part of the software works before it’s combined with the rest of the system. It saves time later because it’s easier to fix small problems early than bigger ones later.
 Integration Testing
-Integration testing happens when different parts of the software that were tested separately in unit testing are put together to make sure they work well together.
-After unit testing, engineers test how different units of the software interact with each other. For example, if a student registration system has a "login" module and a "registration" module, integration testing would check if both modules work together properly when users try to log in and register at the same time.
+In Integration testing  different parts of the software that were tested separately in unit testing are put together to make sure they work well together.
+In this step, developers test how different units of the software interact with each other. For example, if a student registration system has a "login" module and a "registration" module, integration testing would check if both modules work together properly when users try to log in and register at the same time.
 Integration testing ensures that the individual parts of the software don’t just work on their own, but also work well together when combined. This helps prevent problems like data not being shared correctly between parts of the software.
+
 System Testing
-System testing involves testing the entire software system as a whole to make sure it behaves as expected in real-world condition
-Here, engineers check if all the features of the software are working together as planned. For example, in a school management system, system testing would make sure that students can register, view their grades, and check timetables all within the same platform.
-System testing is important in that it ensures the whole system works properly when everything is put together. It also checks for any major issues that might not have been caught in earlier testing phases, making sure that the software is ready for real use.
+Here, the entire software system is tested to ensure it behaves as expected in real-world condition. The developers check if all the features of the software are working jointly as planned. For example, in a school management system, system testing would make sure that students can register, view their grades, and check timetables all within the same platform.
+System testing also checks for any major issues that might not have been caught in earlier testing phases, thus allowing for resolving.
+
 Acceptance Testing
-Acceptance testing is done to make sure the software meets the requirements and needs of the users or the client. This is usually the final step before the software is released.
-It works by the client or end-users testing the software to make sure it does what they expect it to do. For example, the school management system might be tested by school staff to check if it meets their needs, like making sure it handles grades, attendance, and timetables correctly.
-This testing ensures that the software meets the expectations of the users and that they are happy with how it works. If any major issues are found, they can be fixed before the software is fully released to the public.
+This type of testing is meant to ensure the software meets the  needs and expectations of the users. The end users test the software to be sure it works as they expected. For example, the school management system might be tested by school staff to check if it meets their needs, like making sure it handles grades and attendances correctly. Should major issues be found, the software can be fixed before its full release to the public.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
